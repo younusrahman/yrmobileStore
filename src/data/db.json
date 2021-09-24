@@ -1,0 +1,427 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "brand": "apple",
+      "title": "phone 12",
+      "color": [
+        "green",
+        "red"
+      ],
+      "ProductDetails": "Här kommer details about this product",
+      "image": "/images/iphone/Iphone(1)",
+      "price": 500,
+      "stockstatic": 10,
+      "latest": true,
+      "anyoffer": 0
+    },
+    {
+      "id": 2,
+      "brand": "apple",
+      "title": "phone 10",
+      "color": [
+        "green"
+      ],
+      "ProductDetails": "Här kommer details about this product",
+      "image": "/images/iphone/Iphone(2)",
+      "price": 5000,
+      "stockstatic": 40,
+      "latest": true,
+      "anyoffer": 0
+    },
+    {
+      "id": 3,
+      "brand": "apple",
+      "title": "phone 10",
+      "color": [
+        "green"
+      ],
+      "ProductDetails": "Här kommer details about this product",
+      "image": "/images/iphone/Iphone(3)",
+      "price": 5022,
+      "stockstatic": 70,
+      "latest": false,
+      "anyoffer": 0
+    },
+    {
+      "id": 4,
+      "brand": "apple",
+      "title": "phone 10",
+      "color": [
+        "green"
+      ],
+      "ProductDetails": "Här kommer details about this product",
+      "image": "/images/iphone/Iphone(4)",
+      "price": 500,
+      "stockstatic": 50,
+      "latest": true,
+      "anyoffer": 0
+    },
+    {
+      "id": 5,
+      "brand": "apple",
+      "title": "phone 10",
+      "color": [
+        "green"
+      ],
+      "ProductDetails": "Här kommer details about this product",
+      "image": "/images/iphone/Iphone(5)",
+      "price": 500,
+      "stockstatic": 50,
+      "latest": false,
+      "anyoffer": 0
+    },
+    {
+      "id": 6,
+      "brand": "apple",
+      "title": "phone 10",
+      "color": [
+        "green"
+      ],
+      "ProductDetails": "Här kommer details about this product",
+      "image": "/images/iphone/Iphone(6)",
+      "price": 500,
+      "stockstatic": 50,
+      "latest": false,
+      "anyoffer": 0
+    },
+    {
+      "id": 7,
+      "brand": "apple",
+      "title": "phone 10",
+      "color": [
+        "green"
+      ],
+      "ProductDetails": "Här kommer details about this product",
+      "image": "/images/iphone/Iphone(6)",
+      "price": 500,
+      "stockstatic": 50,
+      "latest": false,
+      "anyoffer": 0
+    },
+    {
+      "id": 8,
+      "brand": "apple",
+      "title": "phone 10",
+      "color": [
+        "green"
+      ],
+      "ProductDetails": "Här kommer details about this product",
+      "image": "/images/iphone/Iphone(8)",
+      "price": 500,
+      "stockstatic": 50,
+      "latest": true,
+      "anyoffer": 0
+    },
+    {
+      "id": 9,
+      "brand": "apple",
+      "title": "phone 10",
+      "color": [
+        "green"
+      ],
+      "ProductDetails": "Här kommer details about this product",
+      "image": "/images/iphone/Iphone(9)",
+      "price": 500,
+      "stockstatic": 50,
+      "latest": true,
+      "anyoffer": 0
+    },
+    {
+      "id": 10,
+      "brand": "apple",
+      "title": "phone 10",
+      "color": [
+        "green"
+      ],
+      "ProductDetails": "Här kommer details about this product",
+      "image": "/images/iphone/Iphone(10)",
+      "price": 500,
+      "stockstatic": 50,
+      "latest": false,
+      "anyoffer": 0
+    },
+    {
+      "id": 11,
+      "brand": "apple",
+      "title": "phone 10",
+      "color": [
+        "green"
+      ],
+      "ProductDetails": "Här kommer details about this product",
+      "image": "/images/iphone/Iphone(11)",
+      "price": 500,
+      "stockstatic": 50,
+      "latest": false,
+      "anyoffer": 0
+    },
+    {
+      "id": 12,
+      "brand": "apple",
+      "title": "phone 10",
+      "color": [
+        "green"
+      ],
+      "ProductDetails": "Här kommer details about this product",
+      "image": "/images/iphone/Iphone(12)",
+      "price": 500,
+      "stockstatic": 50,
+      "latest": false,
+      "anyoffer": 0
+    },
+    {
+      "id": 13,
+      "brand": "samsung",
+      "title": "samsun s7",
+      "color": [
+        "green",
+        "red"
+      ],
+      "ProductDetails": "Här kommer details about this product",
+      "image": "/images/samsung/samsung(1)",
+      "price": 500,
+      "stockstatic": 60,
+      "latest": false,
+      "anyoffer": 0
+    },
+    {
+      "id": 14,
+      "brand": "samsung",
+      "title": "samsun s7",
+      "color": [
+        "green",
+        "red"
+      ],
+      "ProductDetails": "Här kommer details about this product",
+      "image": "/images/samsung/samsung(2)",
+      "price": 500,
+      "stockstatic": 50,
+      "latest": false,
+      "anyoffer": 0
+    },
+    {
+      "id": 15,
+      "brand": "samsung",
+      "title": "samsun s7",
+      "color": [
+        "green",
+        "red"
+      ],
+      "ProductDetails": "Här kommer details about this product",
+      "image": "/images/samsung/samsung(3)",
+      "price": 500,
+      "stockstatic": 80,
+      "latest": false,
+      "anyoffer": 200
+    },
+    {
+      "id": 16,
+      "brand": "samsung",
+      "title": "samsun s7",
+      "color": [
+        "green",
+        "red"
+      ],
+      "ProductDetails": "Här kommer details about this product",
+      "image": "/images/samsung/samsung(4)",
+      "price": 500,
+      "stockstatic": 50,
+      "latest": false,
+      "anyoffer": 0
+    },
+    {
+      "id": 17,
+      "brand": "samsung",
+      "title": "samsun s7",
+      "color": [
+        "green",
+        "red"
+      ],
+      "ProductDetails": "Här kommer details about this product",
+      "image": "/images/samsung/samsung(5)",
+      "price": 500,
+      "stockstatic": 50,
+      "latest": false,
+      "anyoffer": 0
+    },
+    {
+      "id": 18,
+      "brand": "samsung",
+      "title": "samsun s7",
+      "color": [
+        "green",
+        "red"
+      ],
+      "ProductDetails": "Här kommer details about this product",
+      "image": "/images/samsung/samsung(6)",
+      "price": 500,
+      "stockstatic": 50,
+      "latest": false,
+      "anyoffer": 0
+    },
+    {
+      "id": 19,
+      "brand": "samsung",
+      "title": "samsun s7",
+      "color": [
+        "green",
+        "red"
+      ],
+      "ProductDetails": "Här kommer details about this product",
+      "image": "/images/samsung/samsung(7)",
+      "price": 500,
+      "stockstatic": 50,
+      "latest": false,
+      "anyoffer": 200
+    },
+    {
+      "id": 20,
+      "brand": "samsung",
+      "title": "samsun s7",
+      "color": [
+        "green",
+        "red"
+      ],
+      "ProductDetails": "Här kommer details about this product",
+      "image": "/images/samsung/samsung(8)",
+      "price": 500,
+      "stockstatic": 50,
+      "latest": true,
+      "anyoffer": 0
+    },
+    {
+      "id": 21,
+      "brand": "samsung",
+      "title": "samsun s7",
+      "color": [
+        "green",
+        "red"
+      ],
+      "ProductDetails": "Här kommer details about this product",
+      "image": "/images/samsung/samsung(9)",
+      "price": 500,
+      "stockstatic": 50,
+      "latest": false,
+      "anyoffer": 0
+    },
+    {
+      "id": 22,
+      "brand": "samsung",
+      "title": "samsun s7",
+      "color": [
+        "green",
+        "red"
+      ],
+      "ProductDetails": "Här kommer details about this product",
+      "image": "/images/samsung/samsung(10)",
+      "price": 500,
+      "stockstatic": 20,
+      "latest": false,
+      "anyoffer": 0
+    },
+    {
+      "id": 23,
+      "brand": "samsung",
+      "title": "samsun s7",
+      "color": [
+        "green",
+        "red"
+      ],
+      "ProductDetails": "Här kommer details about this product",
+      "image": "/images/samsung/samsung(11)",
+      "price": 500,
+      "stockstatic": 54,
+      "latest": true,
+      "anyoffer": 0
+    },
+    {
+      "id": 24,
+      "brand": "huawei",
+      "title": "honor",
+      "color": [
+        "black",
+        "red"
+      ],
+      "ProductDetails": "Här kommer details about this product",
+      "image": "/images/huawei/huawei1",
+      "price": 6000,
+      "stockstatic": 4,
+      "latest": true,
+      "anyoffer": 0
+    },
+    {
+      "id": 25,
+      "brand": "huawei",
+      "title": "p40",
+      "color": [
+        "black",
+        "red"
+      ],
+      "ProductDetails": "Här kommer details about this product",
+      "image": "/images/huawei/huawei2",
+      "price": 6000,
+      "stockstatic": 4,
+      "latest": false,
+      "anyoffer": 0
+    },
+    {
+      "id": 26,
+      "brand": "huawei",
+      "title": "p40 pro",
+      "color": [
+        "black",
+        "red"
+      ],
+      "ProductDetails": "Här kommer details about this product",
+      "image": "/images/huawei/huawei3",
+      "price": 4000,
+      "stockstatic": 4,
+      "latest": false,
+      "anyoffer": 0
+    },
+    {
+      "id": 27,
+      "brand": "huawei",
+      "title": "p30",
+      "color": [
+        "black",
+        "red"
+      ],
+      "ProductDetails": "Här kommer details about this product",
+      "image": "/images/huawei/huawei4",
+      "price": 2000,
+      "stockstatic": 4,
+      "latest": false,
+      "anyoffer": 0
+    },
+    {
+      "brand": "samsung",
+      "title": "Note 22",
+      "color": [
+        "red",
+        "green",
+        "black"
+      ],
+      "ProductDetails": "latest model bla bla bla",
+      "price": "6000",
+      "stockstatic": "20",
+      "latest": false,
+      "image": "/images/noimg",
+      "id": 28
+    },
+    {
+      "brand": "samsung",
+      "title": "s20",
+      "color": [
+        "red",
+        "green"
+      ],
+      "ProductDetails": "inget",
+      "price": "7000",
+      "stockstatic": "12",
+      "latest": false,
+      "image": "/images/noimg",
+      "id": 29
+    }
+  ]
+}

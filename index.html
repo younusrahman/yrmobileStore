@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="/node_modules/sweetalert2/dist/sweetalert2.min.js"></script>
+    <link rel="stylesheet" href="/node_modules/sweetalert2/dist/sweetalert2.css">
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+      <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+      <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+      <style>
+        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+      
+        * {
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;
+          font-family: 'Poppins', sans-serif;
+        }
+      </style>
+    <title>PhoneShop - YR</title>
+    
+  </head>
+  <body>
+    <div id="app"></div>
+    <script src="/dist/build.js"></script>
+  </body>
+</html>
+
+
+<!-- js for toggle form -->
+<script>
+  let loginform = document.getElementById("loginForm");
+  let regform = document.getElementById("regForm");
+  let indicator = document.getElementById("indicator");
+
+
+  function register() {
+    regform.style.transform = "translateX(0px)"
+    loginform.style.transform = "translateX(0px)"
+    indicator.style.transform = "translateX(100px)"
+  }
+
+  function login() {
+    regform.style.transform = "translateX(365px)"
+    loginform.style.transform = "translateX(363px)"
+    indicator.style.transform = "translateX(0px)"
+  }
+
+
+</script>
+
+<script>
+  let menuitems = document.getElementById("menuitems");
+  menuitems.style.maxHeight = "0px";
+  function menutoogle() {
+    if (menuitems.style.maxHeight === "0px") {
+      menuitems.style.maxHeight = "200px";
+    }
+    else { menuitems.style.maxHeight = "0px" }
+  }
+</script>
+  
+</body>
+</html>
